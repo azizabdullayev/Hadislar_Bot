@@ -1,5 +1,5 @@
 from aiogram import *
 
-TOKEN = ''
+TOKEN = 'Your Token'
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
